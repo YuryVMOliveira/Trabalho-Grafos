@@ -51,7 +51,6 @@ invalida o trabalho.
 
 1
 
-2 PROF. MARCOS PASSINI DCC/UFJF
 1. BASE
 
 Consiste em implementação de uma estrutura de dados para representação e manipulação com-
